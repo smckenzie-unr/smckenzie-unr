@@ -1,6 +1,7 @@
 ![CircuitBoard](https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/Screenshot%20from%202022-07-08%2010-41-28.png)
-
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hello there, I'm Scott McKenzie, Embedded Engineer. 👋</b></h1>
+</p>
 
 ### Languages and Tools: 
 <img align="left" alt="VHDL language" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/vhdl.png" />
@@ -11,10 +12,12 @@
 <img align="left" alt="Nvidia Cuda C" width="35px" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" />
 <img align="left" alt="Qt 5" width="35px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" />
 <img align="left" alt="Vivado" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/vivado_logo.png" />
+<img align="left" alt="Vivado" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/ide_icon.png" />
 <img align="left" alt="Qt Creator" width="35px" src="https://avatars.githubusercontent.com/u/30841581?s=200&v=4" />
 <img align="left" alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/Visual-Studio-2022-Icon.png" />
 <img align="left" alt="STM32CubeIDE" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/stm32cube.png" />
 <img align="left" alt="Eclipse CDT" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
+<img align="left" alt="Eclipse CDT" width="35px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 
 
 
