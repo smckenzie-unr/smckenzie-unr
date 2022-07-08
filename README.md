@@ -1,3 +1,5 @@
+[![CircuitBoard](https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/Screenshot%20from%202022-07-08%2010-41-28.png)
+
 ### Hi there 👋
 
 ### Languages and Tools: 
