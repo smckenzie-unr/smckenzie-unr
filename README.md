@@ -7,8 +7,8 @@
 <img align="left" alt="VHDL language" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/vhdl.png" />
 <img align="left" alt="C++ language" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/ISO_C++_Logo.svg.png" />
 <img align="left" alt="C language" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/380px-C_Programming_Language.svg.png" />
-<img align="left" alt="Python language" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Matlab" width="35px" src="https://avatars.githubusercontent.com/u/8590076?s=200&v=4" />
+<img align="left" alt="Python language" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/Python-logo-notext.svg.png" />
+<img align="left" alt="Matlab" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/Matlab_Logo.png" />
 <img align="left" alt="Nvidia Cuda C" width="35px" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" />
 <img align="left" alt="Qt 5" width="35px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" />
 <img align="left" alt="Vivado" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/vivado_logo.png" />
