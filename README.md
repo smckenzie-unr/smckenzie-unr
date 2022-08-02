@@ -12,6 +12,7 @@
 <img align="left" alt="Nvidia Cuda C" width="35px" src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" />
 <img align="left" alt="Qt 5" width="35px" src="https://avatars.githubusercontent.com/u/159455?s=200&v=4" />
 <img align="left" alt="Vivado" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/vivado_logo.png" />
+<img align="left" alt="Quartus" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/quartusii.png" />
 <img align="left" alt="Vitis" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/ide_icon.png" />
 <img align="left" alt="Qt Creator" width="35px" src="https://avatars.githubusercontent.com/u/30841581?s=200&v=4" />
 <img align="left" alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/Visual-Studio-2022-Icon.png" />
