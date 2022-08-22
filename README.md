@@ -21,7 +21,7 @@
 <img align="left" alt="Git" width="35px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 
 <br><br> 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-kariuki&count_private=true&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=smckenzie-unr&count_private=true&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&langs_count=5)]()
 
 <!--
