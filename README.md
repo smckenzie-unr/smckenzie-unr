@@ -25,16 +25,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&theme=radical&layout=compact" />
 </div>
 
-
-/*<br><br>
-<h1 align="center">
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=smckenzie-unr&count_private=true&showicons=true)]()
-</h1>
-<br><br> 
-<h1 align="center">
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&langs_count=4)]()
-</b>*/
-
 <!--
 **smckenzie-unr/smckenzie-unr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
