@@ -19,10 +19,12 @@
 <img align="left" alt="STM32CubeIDE" width="35px" src="https://raw.githubusercontent.com/smckenzie-unr/smckenzie-unr/main/stm32cube.png" />
 <img align="left" alt="Eclipse CDT" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="left" alt="Git" width="35px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-<br><br><br><br>
+<p>
+<br><br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=smckenzie-unr&count_private=true&showicons=true)]()
 <br><br> 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&langs_count=4)]()
+ </p>
 
 <!--
 **smckenzie-unr/smckenzie-unr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
