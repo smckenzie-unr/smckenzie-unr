@@ -20,14 +20,20 @@
 <img align="left" alt="Eclipse CDT" width="35px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="left" alt="Git" width="35px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 
-<br><br>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=smckenzie-unr&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&theme=radical&layout=compact" />
+</div>
+
+
+/*<br><br>
 <h1 align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=smckenzie-unr&count_private=true&showicons=true)]()
 </h1>
 <br><br> 
 <h1 align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&langs_count=4)]()
-</b>
+</b>*/
 
 <!--
 **smckenzie-unr/smckenzie-unr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
