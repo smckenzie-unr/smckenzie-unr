@@ -21,7 +21,7 @@
 <img align="left" alt="Git" width="35px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=smckenzie-unr&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=smckenzie-unr&show_icons=true&theme=radical&layout=compact" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&theme=radical&layout=compact" />
 </div>
 
