@@ -24,10 +24,10 @@
 ---
 
 ### GitHub Stats
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=smckenzie-unr&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smckenzie-unr&show_icons=true&include_all_commits=true&hide_border=true)
 
 ### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&langs_count=8&layout=compact&hide_border=true" /></div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smckenzie-unr&langs_count=8&layout=compact&hide_border=true)
 
 <!--
 **smckenzie-unr/smckenzie-unr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
